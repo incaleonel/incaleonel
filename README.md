@@ -1,5 +1,8 @@
-<center>https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif</center>
-### Hi, I'm Leonel Inca 👋
+<div align='center'>
+    <img src='https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif'/>
+    ### Hi, I'm Leonel Inca 👋
+</div   >
+
 ---
 I'm from Argentina 
 <!--
