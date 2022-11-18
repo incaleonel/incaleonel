@@ -1,4 +1,4 @@
-                                        ![gif](https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif)
+<center>https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif</center>
 ### Hi, I'm Leonel Inca 👋
 ---
 I'm from Argentina 
